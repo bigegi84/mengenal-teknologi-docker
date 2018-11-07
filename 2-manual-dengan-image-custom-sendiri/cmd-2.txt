@@ -1,0 +1,2 @@
+docker build -t gilangegi/nginx .
+docker run -p 471:80 -d gilangegi/nginx
